@@ -1,6 +1,11 @@
 # Lesson 2: Using Webpack
 Basic lesson on using the webpack bundler and npm to handle dependencies and run the webserver.
 
+## Lesson Results
+Rendered a basic red cube to the screen using three js and webpack.
+
+![Red cube in a dark room](/readme-assets/red-cube.png?raw=true)
+
 ## Setup
 Download [NVM](https://github.com/nvm-sh/nvm).
 Run this followed commands:
