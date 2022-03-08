@@ -7,7 +7,7 @@ A lesson in basic animation within ThreeJs using different animation methods and
 ## Lesson Results
 The end results is a cube that is rotated and moved based on an elapsed time counter and learning the very basics of using tweens in a library like `GSAP`.
 
-![A red cube rotating on its X and Y axis and its position being moved by a sin and cos function](04-animations/readme-assets/cube-rotating.gif)
+![A red cube rotating on its X and Y axis and its position being moved by a sin and cos function](/04-animations/readme-assets/cube-rotating.gif)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
