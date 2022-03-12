@@ -7,6 +7,7 @@ In this specific instance, I am using `dat.gui`.
 A cube that can be modified by a custom made debug UI.
 
 ![A cube that is being moved, color changed, and spun by buttons and selectors on a debug UI](/08-debug-ui/readme-assets/debug-ui.gif)
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
