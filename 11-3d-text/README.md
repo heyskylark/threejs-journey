@@ -4,7 +4,7 @@ This lesson took a dive into the `TextGeometry` and its ability to use typeface 
 ## Lesson Results
 3D text saying `HeySkylark` surrounded by 1000 random dougnuts.
 
-![All door maps on random mesh, with environment map.](/11-3d-text/readme-assets/heyskylark-text.jpg)
+![3D text saying HeySkylark in the middle of a thousand dougnuts.](/11-3d-text/readme-assets/heyskylark-text.jpg)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
