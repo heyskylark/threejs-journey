@@ -1,4 +1,4 @@
-# Lesson 8: Debug UI
+# Lesson 11: 3D Text
 This lesson took a dive into the `TextGeometry` and its ability to use typeface fonts to create 3D text. As well as using the bounding box calculations to calculate local position and optimizing creating a huge ammount of assets by re-using things such as `geometries` and `materials`.
 
 ## Lesson Results
