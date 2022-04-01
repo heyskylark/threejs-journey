@@ -1,4 +1,4 @@
-# Lesson 14: Shadows
+# Lesson 15: Shadows
 This lesson takes everything we've learned in all the previous lessons to build out a scene of a haunted house with ghosts and graves around it.
 
 ## Lesson Results
