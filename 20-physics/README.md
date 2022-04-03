@@ -23,6 +23,9 @@ There are many ways to opimize the physics but the highlighted ways in this less
 
 ![Testing physics with a bunch of boxes and spheres.](/20-physics/readme-assets/physics.gif)
 
+### Workers
+An excellent examples of using workers to put certain jobs in their own workers: [Cannons Workers example](https://schteppe.github.io/cannon.js/examples/worker.html)
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
