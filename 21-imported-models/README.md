@@ -1,4 +1,4 @@
-# Lesson 20: Physics
+# Lesson 21: Importing a Custom Model
 A lesson in different 3D file types and how to load them along with their animations into ThreeJs.
 
 ![Testing physics with a bunch of boxes and spheres.](/21-imported-models/readme-assets/fox.gif)
