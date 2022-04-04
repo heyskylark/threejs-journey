@@ -1,4 +1,7 @@
-# Three.js Journey
+# Lesson 20: Physics
+This tutorial goes over how to use Blender. We create a hamburger as a way to learn our way around the basics of using Blender. At the end of the tutorial we export the burger from Blender and import it into ThreeJs.
+
+![A hamburger that was created in blender and imported into ThreeJs.](/22-custom-models-with-blender/readme-assets/hamburger.png)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
