@@ -1,7 +1,6 @@
-# Lesson 26: Shader Shapes and Patterns using Math
+# Lesson 27: Raging Sea Using Shaders
 This lesson applies the information we learned in the past two lessons about shaders to create a shader the simulates a raging sea. To simulate the raging sea, the vertex shader uses a combination of sin and perlin noise to generate waves. The fragement shader then uses the wave elevation to determine the color mix.
 
-26-shader-patterns/readme-assets/animated-water.mov
 ![Perlin noise raging sea.](/27-raging-sea/readme-assets/water-shader.gif)
 
 ## Setup
